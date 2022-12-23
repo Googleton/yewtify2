@@ -1,0 +1,4 @@
+[submodule "styles/vuetify"]
+	path = styles/vuetify
+	url = https://github.com/vuetifyjs/vuetify
+	branch = next
