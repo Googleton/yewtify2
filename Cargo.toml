@@ -6,4 +6,3 @@ edition = "2021"
 
 [dependencies]
 yew = "0.20.0"
-ycomposables = { path = "./ycomposables" }
